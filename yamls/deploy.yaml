@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-apps
-        image: spider26/hello-kaniko:v1
+        image: spider26/regapp
         ports:
         - containerPort: 80
 
